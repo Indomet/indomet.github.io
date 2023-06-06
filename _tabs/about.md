@@ -3,9 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-# About Me
-
 Hello there! Welcome to my website. My name is Asim, and I am a first-year student studying Software Engineering and Management at the University of Gothenburg. I am passionate about effective communication and love connecting with people from different backgrounds.
 
 As a student, I am eager to gain practical experience in the field of programming. Computers have always fascinated me, and I spend a significant amount of my free time resolving various computer-related issues. I have a keen eye for detail and believe that paying attention to the little things leads to perfection.
