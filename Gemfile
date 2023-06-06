@@ -26,11 +26,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 if RUBY_PLATFORM =~ /linux-musl/
   gem "jekyll-sass-converter", "~> 2.0"
 end
-
-# https://github.com/jekyll/jekyll-compose
-# added brian 2023-05-22
-gem 'jekyll-compose', group: [:jekyll_plugins]
-
-# 
-# added brian 2023
-
