@@ -3,7 +3,7 @@ title: Privoxy Pilot for MacOS has launched
 author: brian
 date: 2023-06-05 18:10:13 -0400
 categories: [code,project]
-tags: [Privoxy,privoxy-pilot-macos,github]
+tags: [Privoxy,privoxy-pilot-macos]
 pin: false 
 render_with_liquid: false
 ---
