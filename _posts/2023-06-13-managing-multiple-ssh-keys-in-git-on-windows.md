@@ -17,6 +17,7 @@ ssh-keygen -t rsa -C "someone2@example.com" -f "/c/Users/username_for_pc/.ssh/se
 ```
 
 3. Now, we need to create a *config* file without any extension. You can either use VS Code or download the [config](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Managing%20Multiple%20SSH%20Keys%20in%20Git%20on%20Windows/config) file and modify it. Here's the content of the config file:
+
 ```
 # GitLab configuration
 Host git.chalmers.se
@@ -32,6 +33,7 @@ Host github.com #if both of them are github then you can change the first one to
 ```
 
 4. Additionally, we need to edit the [*.gitconfig*](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Managing%20Multiple%20SSH%20Keys%20in%20Git%20on%20Windows/.gitconfig) file, located at "C:\Users\username_for_pc\.gitconfig," if you have two different Git providers (e.g., GitLab and GitHub). Modify the file as follows:
+
 ```
 [credential "https://git.chalmers.se"]
 	provider = generic
