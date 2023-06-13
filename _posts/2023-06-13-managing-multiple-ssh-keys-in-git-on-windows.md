@@ -4,7 +4,7 @@ author: Asim
 date: 2023-06-13 17:22:04 -0400
 categories: [Git,Multiple-SSH-Keys]
 tags: [Git,Gitlab,Github]
-pin: false
+pin: true
 render_with_liquid: false
 ---
 
