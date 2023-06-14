@@ -44,7 +44,7 @@ To complete your application, you will need to gather the following mandatory an
 0. Table of Contents (optional)
 
 1. Permanent resident form (138011).
-<iframe src="https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="application/pdf" width="100%" height="600px">                                     
+<embed src="https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="application/pdf" width="100%" height="600px">                                     
 
 2. Receipt of payment. (optional)
                                       
@@ -61,4 +61,4 @@ To complete your application, you will need to gather the following mandatory an
 8. Housing (lease agreement, details of monthly costs). 
 
 9. The family's total income. (optional)
-<iframe src="https://drive.google.com/file/d/1ZR2lQrmpi993CXVUJRPN7CWPiDh6xgAL/" type="application/pdf" width="100%" height="600px">    
+<embed src="https://drive.google.com/file/d/1ZR2lQrmpi993CXVUJRPN7CWPiDh6xgAL/" type="application/pdf" width="100%" height="600px">   
