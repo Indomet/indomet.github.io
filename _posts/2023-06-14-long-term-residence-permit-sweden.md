@@ -47,7 +47,6 @@ To complete your application, you will need to gather the following mandatory an
 <embed src="https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="application/pdf" width="100%" height="600px">  
 
 
-![PDF](https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/blob/main/assets/website-files/Migrationsverket-Eng/test.pdf)
 
 2. Receipt of payment. (optional)
                                       
@@ -64,10 +63,6 @@ To complete your application, you will need to gather the following mandatory an
 8. Housing (lease agreement, details of monthly costs). 
 
 9. The family's total income. (optional)
-<embed src="https://drive.google.com/file/d/1ZR2lQrmpi993CXVUJRPN7CWPiDh6xgAL/" type="application/pdf" width="100%" height="600px">   
 
-<iframe src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="100%" height="500px"></iframe>
-
-<iframe allow="autoplay" height="350" src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="640"></iframe>
 
 <iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1ZR2lQrmpi993CXVUJRPN7CWPiDh6xgAL/preview" width="640"></iframe>
