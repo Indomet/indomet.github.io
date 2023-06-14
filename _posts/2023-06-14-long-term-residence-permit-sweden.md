@@ -61,4 +61,4 @@ To complete your application, you will need to gather the following mandatory an
 8. Housing (lease agreement, details of monthly costs). 
 
 9. The family's total income. (optional)
-<iframe src="https://drive.google.com/file/d/1ZR2lQrmpi993CXVUJRPN7CWPiDh6xgAL/" type="application/pdf" width="100%" height="600px">   
+<iframe src="https://drive.google.com/file/d/1ZR2lQrmpi993CXVUJRPN7CWPiDh6xgAL/" type="application/pdf" width="100%" height="600px">    
