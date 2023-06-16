@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 Hello there! Welcome to my website. My name is Asim, and I am a first-year student and studying Software Engineering and Management at the University of Gothenburg. I am passionate about effective communication and love connecting with people from different backgrounds.
 
