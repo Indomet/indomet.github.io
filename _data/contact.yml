@@ -26,3 +26,7 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+
+- type: paypal
+  icon: 'fab fa-paypal' 
+  url: 'https://www.paypal.com/donate/?hosted_button_id=M5ASLFFRJ9ADG'
