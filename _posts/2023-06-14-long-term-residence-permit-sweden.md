@@ -34,14 +34,14 @@ To complete your application, you need to collect the `mandatory documents`. You
 <span style="font-size: 16px; color: rgb(5, 146, 245);">0. Table of Contents (optional)<!--  -->
 
 Here is a table of contents that you can include in your documents to make things easier for people working on Migrationsverket:
-<iframe allow="autoplay" height="350" src="https://docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe>
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Long-term residence form (138011).<!--  -->
 
 Here is an example of how to fill out the long-term residence form. Keep in mind that that the information I provided can vary from person to person.
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe>
 
 <br>
 
@@ -50,7 +50,7 @@ Here is an example of how to fill out the long-term residence form. Keep in mind
 To submit your application, you need to pay an application fee. After making the payment, you can include a bank statement as proof.  You can find how to make a payment [here](https://indomet.github.io/posts/long-term-residence-permit-sweden/#how-to-make-a-payment).
 
 Here is an example of a payment receipt:
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe>
 
 <br>
 
@@ -63,14 +63,14 @@ You need to scan or take a picture of your passport, starting from the first pag
 <span style="font-size: 16px; color: rgb(5, 146, 245);">4. Employment contract. <!--  -->
 
 Here is an example of employement contract:
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe> 
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe> 
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">5. Latest salary specification. (It is good to include the most recent three) <!--  -->
 
 Here is an example of salary specification:
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe>
 
 <br>
 
@@ -85,20 +85,20 @@ You can request a bank account statement from your bank, or if you are using onl
 You can visit this page to access the income information in PDF form [Skatteverket - Current Information on Your Income](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna). From there, you can log in to download the income information for either one or two years."
 
 Here is an example about how it looks:
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe>
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">8. Housing (rental agreement, details of monthly costs). <!--  --> 
 
 I would recommend that you consider creating an `inneboende` contract with your family members. This is because the amount of money required per person for long-term residence depends on whether you divide the costs or not. If the costs per person are lower, it could improve your chances of getting the permit. Since each person's application is reviewed individually, having a contract may actually help all of your family members to get the long-term residence permit. Here is a link to [inneboende contract](https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link) I have created. 
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe>
 
 Here is an example of the rental agreement:
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe> 
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe> 
 
 Here is an example of the latest invoice:
-<iframe allow="autoplay" height="350" src="https://drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe>
 
 <br>
 
@@ -107,7 +107,7 @@ Here is an example of the latest invoice:
 Although this part is not needed I would recommend you to include this, since you are trying to prove that you are able to support yourself and your family without being burden to the Swedish government. 
 
 You can write the amount of money in your bank account and the value of other things, such as your car, within this document:
-<iframe allow="autoplay" height="350" src="https://docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe>
 
 
 If you are applying as a family, it's a good idea to include employment certificates and salary details for each family member in everybody's documents. If any family member already has permanent or long-term residence, it's better to include their salary information since they are part of the family.
