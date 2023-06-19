@@ -1,6 +1,6 @@
 ---
 title: Varaktigt bosatt başvurusu
-categories: [Migrationsverket,Türkçe,test]
+categories: [Migrationsverket,Türkçe]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet]
 ---
 
