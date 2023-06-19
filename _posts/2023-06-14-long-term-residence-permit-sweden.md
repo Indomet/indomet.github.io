@@ -110,7 +110,7 @@ You can write the amount of money in your bank account and the value of other th
 <iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe>
 
 
-If you are applying as a family, it's a good idea to include employment certificates and salary details for each family member in everybody's documents. If any family member already has permanent or long-term residence, it's better to include their salary information since they are part of the family.
+If you are applying as a family, it's a good idea to include employment contract, salary details and bank account statement for each family member in everybody's documents. If any family member already has permanent or long-term residence, it's better to include their salary information and bank account statement since they are part of the family.
 
 
 ## How to make a payment?
@@ -131,6 +131,15 @@ You can also pay using IBAN:
 | Child under the age of 18                          | SEK 500    |
 
 ---
+
+Exceptions
+The following individuals do not need to pay any fee:
+
+- Family members of Nordic citizens
+- EU citizens applying for residence permits and their family members
+- Citizens of Switzerland and their family members
+- Citizens of Japan.
+
 For more information, you can visit the following links:
 - [Migrationsverket - Fees for Long-term Residents (English)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html)
 - [Migrationsverket - Avgifter för varaktigt bosatta (Swedish)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html)
