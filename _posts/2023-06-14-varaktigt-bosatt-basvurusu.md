@@ -1,7 +1,7 @@
 ---
 title: Varaktigt bosatt başvurusu
-categories: [Migrationsverket,Türkçe]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka]
+categories: [Migrationsverket,Türkçe,test]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet]
 ---
 
 
@@ -23,7 +23,7 @@ Uzun süreli ikamet statüsüne kabul edilmek için şunlara sahip olmanız gere
 - Önceki beş yıl boyunca İsveç'te ikamet izni veya diğer nedenlerle yasal ikamet sahibi olmuş olmak
 - Kendinizi ve ailenizi geçindirebilecek durumda olmak
 
-Yardımcı koruma yani [övrigt skyddsbehövande](https://www.migrationsverket.se/Privatpersoner/Skydd-och-asyl-i-Sverige/Efter-beslut/Om-du-far-stanna/Uppehallstillstand-som-alternativt-skyddsbehovande.html) statüsünde olan bir kişi olarak İsveç'te ikamet izni almanız durumunda, varaktigt bosatt (uzun süreli ikamet) statüsüne kabul edilemezsiniz.
+[Övrigt skyddsbehövande](https://www.migrationsverket.se/Privatpersoner/Skydd-och-asyl-i-Sverige/Efter-beslut/Om-du-far-stanna/Uppehallstillstand-som-alternativt-skyddsbehovande.html) statüsünde olan bir kişi olarak İsveç'te ikamet izni almanız durumunda, varaktigt bosatt (uzun süreli ikamet) statüsüne kabul edilemezsiniz.
 
 ## Nasıl Başvurulur?
 

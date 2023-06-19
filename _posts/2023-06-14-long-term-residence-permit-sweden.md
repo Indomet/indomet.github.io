@@ -1,7 +1,7 @@
 ---
 title: Long-term residence permit Sweden
 categories: [Migrationsverket,English]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet]
 ---
 
 ## What is Long-Term Residence (Varaktigt bosatt) and Why Should You Apply for It?

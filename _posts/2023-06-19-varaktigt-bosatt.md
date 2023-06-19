@@ -1,7 +1,7 @@
 ---
 title: Varaktigt Bosatt
 categories: [Migrationsverket,Svenska]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet]
 ---
 
 ## Vad är varaktigt bosatt och varför bör du ansöka det?
