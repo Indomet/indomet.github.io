@@ -22,7 +22,7 @@ För att beviljas status som varaktigt bosatt måste du:
 - ha haft uppehållstillstånd, eller på annan grund varit lagligen bosatt, i Sverige de senaste fem åren
 - kunna försörja dig och din familj.
 
-Om du har beviljats uppehållstillstånd i Sverige som `övrigt skyddsbehövande`, kan du inte få ställning som varaktigt bosatt.
+Om du har beviljats uppehållstillstånd i Sverige som  [övrigt skyddsbehövande](https://www.migrationsverket.se/Privatpersoner/Skydd-och-asyl-i-Sverige/Efter-beslut/Om-du-far-stanna/Uppehallstillstand-som-alternativt-skyddsbehovande.html), kan du inte få ställning som varaktigt bosatt.
 
 ## Hur ansöker man?
 
@@ -48,7 +48,7 @@ Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom 
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">2. Kvitto på betalning. (valfritt)<!--  -->
 
-För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](https://indomet.github.io/posts/long-term-residence-permit-sweden/#how-to-make-a-payment).
+För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](https://indomet.github.io/posts/long-term-residence-permit-sweden/#hur-betalar-man).
 
 Här är ett exempel på en betalningskvitto:
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe>
@@ -114,7 +114,7 @@ Du kan skriva beloppet pengar på ditt bankkonto och värdet på andra tillgång
 Om du ansöker som familj är det en bra idé att inkludera anställningsbevis, lönespecifikation och kontoutdrag för varje familjemedlem i allas dokument. Om någon familjemedlem redan har permanent eller varaktigt bosatt är det bättre att inkludera deras lönespecifikation och kontoutdrag eftersom de är en del av familjen.
 
 
-## Hur man gör en betalning?
+## Hur betalar man?
 I meddelanderutan för betalningen ("Meddelande till betalningsmottagaren") ska du ange namnet, personnummer och/eller ärendenummer för personerna som betalningsavgiften avser. Om avgiften avser flera personer, inkludera alla deras personnummer och/eller ärendenummer. `Jag rekommenderar att du dubbelkollar informationen i länkarna nedan innan du betalar för att försäkra dig om att informationen på den här sidan är aktuell.`
 
 - Bankgiro: 5223-7005

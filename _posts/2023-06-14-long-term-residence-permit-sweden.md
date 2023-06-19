@@ -21,7 +21,7 @@ To be granted long-term resident status, you must:
 - have had a residence permit, or legal residence in Sweden on other grounds, for the previous five years.
 - be able to support yourself and your family.
 
-If you have been granted a Swedish residence permit as a `person with subsidiary protection status`, you cannot be granted long-term resident status.
+If you have been granted a Swedish residence permit as a [person with subsidiary protection status](https://www.migrationsverket.se/English/Private-individuals/Protection-and-asylum-in-Sweden/When-you-have-received-a-decision-on-your-asylum-application/If-you-are-allowed-to-stay/Residence-permits-for-those-granted-subsidiary-protection-status-.html), you cannot be granted long-term resident status.
 
 ## How to apply?
 
