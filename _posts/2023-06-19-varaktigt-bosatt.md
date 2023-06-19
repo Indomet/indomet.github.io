@@ -4,7 +4,7 @@ categories: [Migrationsverket,Svenska]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence]
 ---
 
-## Vad är Varaktigt bosatt och varför bör du ansöka om det?
+## Vad är varaktigt bosatt och varför bör du ansöka det?
 
 Varaktigt bosatt, även känt som "Long-Term Residence" på engelska, är ett uppehållstillstånd som gör det möjligt för dig att bo i många europeiska länder, inklusive Sverige. Att få detta tillstånd har stora fördelar. Det innebär att du fritt kan resa och bo i olika europeiska länder utan några begränsningar.
 
@@ -15,7 +15,7 @@ Du kan hitta en lista över dessa länder på Migrationsverkets officiella webbp
 
 En annan fördel är att när du har ett varaktigt bosatt får du automatiskt ett permanent uppehållstillstånd i Sverige. Detta är verkligen bra eftersom det ger dig möjlighet att senare ansöka om medborgarskap om du önskar det.
 
-## Vem kan ansöka?
+## Vem kan ansöka varaktigt bosatt?
 För att beviljas status som varaktigt bosatt måste du:
 
 - ha bott i Sverige i fem år utan avbrott
@@ -48,7 +48,7 @@ Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom 
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">2. Kvitto på betalning. (valfritt)<!--  -->
 
-För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](https://indomet.github.io/posts/long-term-residence-permit-sweden/#hur-betalar-man).
+För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](https://indomet.github.io/posts/varaktigt-bosatt/#hur-betalar-man).
 
 Här är ett exempel på en betalningskvitto:
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe>
