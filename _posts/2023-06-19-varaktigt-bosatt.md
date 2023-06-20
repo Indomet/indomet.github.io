@@ -1,12 +1,12 @@
 ---
 title: Varaktigt Bosatt
 categories: [Migrationsverket,Svenska]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 
 ## Vad är varaktigt bosatt och varför bör du ansöka det?
 
-Varaktigt bosatt, även känt som "Long-Term Residence" på engelska, är ett uppehållstillstånd som gör det möjligt för dig att bo i många europeiska länder, inklusive Sverige. Att få detta tillstånd har stora fördelar. Det innebär att du fritt kan resa och bo i olika europeiska länder utan några begränsningar.
+Varaktigt bosatt, även känt som "Long-Term Residence" på engelska, är ett uppehållstillstånd som gör det möjligt för dig att bo i många europeiska länder, inklusive Sverige. Att få detta uppehållstillstånd har stora fördelar. Det innebär att du fritt kan resa och bo i olika europeiska länder utan några begränsningar.
 
 Du kan hitta en lista över dessa länder på Migrationsverkets officiella webbplats:
 - [Migrationsverket - Varaktigt bosatt (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html)

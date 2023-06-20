@@ -1,7 +1,7 @@
 ---
 title: Varaktigt bosatt başvurusu
 categories: [Migrationsverket,Türkçe]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 
 
