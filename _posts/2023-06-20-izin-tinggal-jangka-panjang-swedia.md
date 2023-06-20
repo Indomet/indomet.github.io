@@ -9,8 +9,9 @@ tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Sürel
 Izin Tinggal Jangka Panjang, juga dikenal sebagai "Varaktigt bosatt" dalam bahasa Swedia, adalah izin tinggal yang memungkinkan Anda tinggal di banyak negara di Eropa, termasuk Swedia. Mendapatkan izin ini memiliki banyak manfaat. Ini berarti Anda dapat dengan bebas berpindah dan tinggal di berbagai negara di Eropa tanpa ada batasan.
 
 Anda dapat menemukan daftar negara-negara tersebut di situs web resmi Migrationsverket:
-- [Migrationsverket - Long-term Residents (Bahasa Inggris)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)
-- [Migrationsverket - Varaktigt bosatt (Bahasa Swedia)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html)
+- [Migrationsverket - Varaktigt bosatt (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html)
+- [Migrationsverket - Long-term Residents (Engelska)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)
+
 
 Keuntungan lainnya adalah setelah Anda memiliki izin tinggal jangka panjang, Anda secara otomatis mendapatkan izin tinggal tetap di Swedia. Ini sangat menguntungkan karena memberi Anda kesempatan untuk mengajukan kewarganegaraan di kemudian hari jika Anda menginginkannya.
 
@@ -21,7 +22,7 @@ Untuk diberikan status penduduk jangka panjang, Anda harus:
 - telah memiliki izin tinggal atau tinggal secara legal di Swedia dengan alasan lain selama lima tahun sebelumnya.
 - dapat menjamin kehidupan Anda sendiri dan keluarga Anda.
 
-Jika Anda telah diberikan izin tinggal di Swedia sebagai [orang dengan status perlindungan tambahan](https://www.migrationsverket.se/English/Private-individuals/Protection-and-asylum-in-Sweden/When-you-have-received-a-decision-on-your-asylum-application/If-you-are-allowed-to-stay/Residence-permits-for-those-granted-subsidiary-protection-status-.html), Anda tidak dapat diberikan status penduduk jangka panjang.
+Jika Anda telah diberikan izin tinggal di Swedia sebagai [Övrigt skyddsbehövande](https://www.migrationsverket.se/English/Private-individuals/Protection-and-asylum-in-Sweden/When-you-have-received-a-decision-on-your-asylum-application/If-you-are-allowed-to-stay/Residence-permits-for-those-granted-subsidiary-protection-status-.html), Anda tidak dapat diberikan status penduduk jangka panjang.
 
 ## Bagaimana cara mengajukan?
 
@@ -38,7 +39,7 @@ Berikut adalah daftar isi yang dapat Anda sertakan dalam dokumen Anda untuk memu
 
 <br>
 
-<span style="font-size: 16px; color: rgb(5, 146, 245);">1. Formulir Izin Tinggal Jangka Panjang (138011).<!--  -->
+<span style="font-size: 16px; color: rgb(5, 146, 245);">1. Formulir varaktigt bosatt (138011).<!--  -->
 
 Berikut adalah contoh cara mengisi formulir izin tinggal jangka panjang. Perlu diingat bahwa informasi yang saya berikan dapat bervariasi dari orang ke orang.
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe>
@@ -81,7 +82,7 @@ Anda dapat meminta rekening koran bank dari bank Anda, atau jika Anda menggunaka
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">7. Informasi pendapatan dari Skatteverket (Otoritas Pajak Swedia). <!--  -->
 
-Anda dapat mengunjungi halaman ini untuk mengakses informasi pendapatan dalam bentuk PDF [Skatteverket - Informasi Terkini tentang Pendapatan Anda](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna). Dari sana, Anda dapat masuk untuk mengunduh informasi pendapatan untuk satu atau dua tahun.
+Anda dapat mengunjungi halaman ini untuk mengakses informasi pendapatan dalam bentuk PDF [di sini](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna). Dari sana, Anda dapat masuk untuk mengunduh informasi pendapatan untuk satu atau dua tahun.
 
 Berikut adalah contoh tampilannya:
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe>
@@ -138,8 +139,8 @@ Individu-individu berikut tidak perlu membayar biaya apa pun:
 - Warga negara Jepang.
 
 Untuk informasi lebih lanjut, Anda dapat mengunjungi tautan-tautan berikut:
-- [Migrationsverket - Biaya untuk Penduduk Jangka Panjang (Bahasa Inggris)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html)
-- [Migrationsverket - Avgifter för varaktigt bosatta (Bahasa Swedia)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html)
+- [Migrationsverket - Avgifter för varaktigt bosatta (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html)
+- [Migrationsverket - Fees for Long-term Residents (Engelska)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html)
 
 ## Kemana harus mengirim?
 Untuk mengajukan permohonan tinggal jangka panjang, Anda perlu mengirimkan aplikasi Anda ke alamat berikut. Namun, sayangnya tidak ada opsi pengajuan secara online untuk jenis izin tinggal ini.
@@ -152,11 +153,12 @@ Box 3100
 903 03 Umeå
 ```
 
-- [Migrationsverket - Alamat Surat dan Faks (Bahasa Swedia)](https://www.migrationsverket.se/Kontakta-oss/Post--och-faxadresser.html)
-- [Migrationsverket - Alamat Surat dan Faks (Bahasa Inggris)](https://www.migrationsverket.se/English/Contact-us/Postal-addresses-and-fax-numbers.html)
+- [Migrationsverket - Adresser för post och fax (Svenska)](https://www.migrationsverket.se/Kontakta-oss/Post--och-faxadresser.html)
+- [Migrationsverket - Postal addresses and fax numbers (Engelska)](https://www.migrationsverket.se/English/Contact-us/Postal-addresses-and-fax-numbers.html)
 
 
 
+<!-- Izin Tinggal Jangka Panjang -->
 <!-- <embed src="https://docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" type="application/pdf" width="100%" height="600px">    -->
 
 <!-- <iframe src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="100%" height="500px"></iframe> -->
