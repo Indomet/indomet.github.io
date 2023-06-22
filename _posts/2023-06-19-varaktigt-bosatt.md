@@ -1,6 +1,6 @@
 ---
 title: Varaktigt Bosatt
-categories: [Migrationsverket,Svenska]
+categories: [Migrationsverket,1. Svenska]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 

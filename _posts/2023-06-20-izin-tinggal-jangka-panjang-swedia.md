@@ -1,6 +1,6 @@
 ---
 title: Izin tinggal jangka panjang Swedia
-categories: [Migrationsverket,Bahasa Indonesia]
+categories: [Migrationsverket,4. Bahasa Indonesia]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 

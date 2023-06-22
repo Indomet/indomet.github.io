@@ -1,6 +1,6 @@
 ---
 title: Varaktigt bosatt başvurusu
-categories: [Migrationsverket,Türkçe]
+categories: [Migrationsverket,3. Türkçe]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 
@@ -19,7 +19,7 @@ Başka bir avantaj ise uzun süreli ikamet iznine sahip olduğunuzda, otomatik o
 ## Kimler Başvurabilir?
 Uzun süreli ikamet statüsüne kabul edilmek için şunlara sahip olmanız gerekmektedir:
 
-- kesintisiz beş yıl boyunca İsveç'te yaşamış olmak
+- Kesintisiz beş yıl boyunca İsveç'te yaşamış olmak
 - Önceki beş yıl boyunca İsveç'te ikamet izni veya diğer nedenlerle yasal ikamet sahibi olmuş olmak
 - Kendinizi ve ailenizi geçindirebilecek durumda olmak
 
