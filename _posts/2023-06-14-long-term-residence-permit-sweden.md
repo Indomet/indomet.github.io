@@ -1,6 +1,6 @@
 ---
 title: Long-term residence permit Sweden
-categories: [Migrationsverket,English]
+categories: [Migrationsverket,2. English]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 
