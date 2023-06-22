@@ -151,7 +151,7 @@ Daha fazla bilgi için aşağıdaki linkleri ziyaret edebilirsiniz:
 ## Hangi Adrese gönderilmeli?
 Varaktigt bosatt başvurusu yapmak için başvurunuzu aşağıdaki adrese göndermeniz gerekmektedir. Maalesef, bu tür bir ikamet izni için online başvuru seçeneği bulunmamaktadır.
 
-Başvurunuzu göndermeden önce, adresin hala aynı olduğundan emin olmak için migrationsverket'in web sitesinde adresi kontrol etmenizi öneririm. Tüm belgeleri PostNord ile `rekommenderat brev` olarak göndermeniz gerekmektedir.
+Başvurunuzu göndermeden önce, `adresin hala aynı olduğundan emin olmak için migrationsverket'in web sitesinde adresi kontrol etmenizi öneririm`. Tüm belgeleri PostNord ile **rekommenderat brev** olarak göndermeniz gerekmektedir.
 ```
 Migrationsverket
 Box 3100

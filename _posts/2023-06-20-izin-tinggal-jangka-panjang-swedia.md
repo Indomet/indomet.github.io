@@ -145,8 +145,8 @@ Untuk informasi lebih lanjut, Anda dapat mengunjungi tautan-tautan berikut:
 ## Kemana harus mengirim?
 Untuk mengajukan permohonan tinggal jangka panjang, Anda perlu mengirimkan aplikasi Anda ke alamat berikut. Namun, sayangnya tidak ada opsi pengajuan secara online untuk jenis izin tinggal ini.
 
-Sebelum mengirimkan aplikasi Anda, saya sarankan untuk memeriksa alamatnya di situs web migrationsverket untuk memastikan bahwa alamat tersebut masih sama.
-Anda perlu mengirimkan semua dokumen dengan PostNord sebagai `rekommenderat brev`..
+Sebelum mengirimkan aplikasi Anda, `saya sarankan untuk memeriksa alamatnya di situs web migrationsverket untuk memastikan bahwa alamat tersebut masih sama.`
+Anda perlu mengirimkan semua dokumen dengan PostNord sebagai **rekommenderat brev**.
 ```
 Migrationsverket
 Box 3100

@@ -145,10 +145,10 @@ For more information, you can visit the following links:
 - [Migrationsverket - Avgifter för varaktigt bosatta (Swedish)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html)
 
 ## Where to send?
-To apply for long-term residence, you need to send your application to the following address. UUnfortunately, there is no online application option for this type of residence permit.
+To apply for long-term residence, you need to send your application to the following address. Unfortunately, there is no online application option for this type of residence permit.
 
-Before sending your application, I suggest checking the address on migrationsverket's website to ensure it is still same adress.
-You need to send all the documents with PostNord as a `rekommenderat brev`.
+Before sending your application, `I suggest checking the address on migrationsverket's website to ensure it is still same adress.`
+You need to send all the documents with PostNord as a **rekommenderat brev**.
 ```
 Migrationsverket
 Box 3100

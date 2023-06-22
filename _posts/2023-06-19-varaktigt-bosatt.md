@@ -149,8 +149,8 @@ För mer information kan du besöka följande länkar:
 ## Vart ska man skicka ansökan?
 För att ansöka om varaktigt bosatt ska du skicka din ansökan till följande adress. Tyvärr finns det ingen online-ansökningsmöjlighet för denna typ av uppehållstillstånd.
 
-Innan du skickar din ansökan rekommenderar jag att du kontrollerar adressen på Migrationsverkets webbplats för att säkerställa att det är samma adress.
-Du måste skicka alla dokument med PostNord som ett `rekommenderat brev`.
+Innan du skickar din ansökan `rekommenderar jag att du kontrollerar adressen på Migrationsverkets webbplats för att säkerställa att det är samma adress.`
+Du måste skicka alla dokument med PostNord som ett **rekommenderat brev**.
 ```
 Migrationsverket
 Box 3100
