@@ -1,4 +1,5 @@
 ---
+layout: mypost
 title: Managing Multiple SSH Keys in Git on Windows
 categories: [Git]
 tags: [Git,Gitlab,Github]
