@@ -120,14 +120,6 @@ paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
 
-
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    #tracking_id          : "UA-131328398-1"
-    tracking_id          : "G-1ZFVVDV23V"
-    anonymize_ip         : # true, false (default)
-
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
