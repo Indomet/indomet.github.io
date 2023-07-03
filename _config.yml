@@ -23,7 +23,7 @@ title: Asim ‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎ ‏‏‎ ‎�
 tagline: Welcome to my website! I write guides on how to do things in all languages that I know. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-A blog about programming and a wide range of topics related to guides on how to accomplish various tasks.
+  A blog about programming and a wide range of topics related to guides on how to accomplish various tasks.
   
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
