@@ -5,7 +5,7 @@ categories: [Migrationsverket,4. Bahasa Indonesia]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 
-## Apa itu Izin Tinggal Jangka Panjang (Varaktigt bosatt) dan Mengapa Anda Harus Mengajukannya?
+<!-- ## Apa itu Izin Tinggal Jangka Panjang (Varaktigt bosatt) dan Mengapa Anda Harus Mengajukannya? -->
 
 Izin Tinggal Jangka Panjang, juga dikenal sebagai "Varaktigt bosatt" dalam bahasa Swedia, adalah izin tinggal yang memungkinkan Anda tinggal di banyak negara di Eropa, termasuk Swedia. Mendapatkan izin ini memiliki banyak manfaat. Ini berarti Anda dapat dengan bebas berpindah dan tinggal di berbagai negara di Eropa tanpa ada batasan.
 

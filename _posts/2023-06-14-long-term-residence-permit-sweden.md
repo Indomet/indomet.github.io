@@ -5,7 +5,7 @@ categories: [Migrationsverket,2. English]
 tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
 ---
 
-## What is Long-Term Residence (Varaktigt bosatt) and Why Should You Apply for It?
+<!-- ## What is Long-Term Residence (Varaktigt bosatt) and Why Should You Apply for It? -->
 
 Long-Term Residence, also known as "Varaktigt bosatt" in Swedish, is a residence permit that allows you to live in many European countries, including Sweden. Getting this permit has great benefits. It means you can freely move and stay in different European countries without any restrictions.
 
