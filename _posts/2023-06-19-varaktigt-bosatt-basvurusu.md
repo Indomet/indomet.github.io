@@ -37,7 +37,7 @@ Başvurunuzu tamamlamak için `zorunlu belgeleri` toplamanız gerekmektedir. İs
 
 Migrationsverket'te çalışan kişiler için işleri kolaylaştırmak amacıyla belgelerinize ekleyebileceğiniz bir içindekiler tablosu aşağıdadır.
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -46,7 +46,7 @@ Migrationsverket'te çalışan kişiler için işleri kolaylaştırmak amacıyla
 
 Varaktigt bosatt formunu nasıl dolduracağınızla ilgili bir örnek aşağıdadır. Unutmayın, sunduğum bilgiler kişiden kişiye değişkenlik gösterebilir.
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -57,7 +57,7 @@ Başvurunuzu göndermek için bir başvuru ücreti ödemeniz gerekmektedir. Öde
 
 Ödeme makbuzu örneği:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -72,7 +72,7 @@ Pasaportunuzun ilk sayfasından başlayarak, son kullanılan sayfaya kadar taray
 
 İş sözleşmesi örneği:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -81,7 +81,7 @@ Pasaportunuzun ilk sayfasından başlayarak, son kullanılan sayfaya kadar taray
 
 Maaş bordrosu örneği:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -98,7 +98,7 @@ Bankanızdan bir banka hesap dökümü talep edebilir veya online bankacılık k
 
 Vergi Dairesi'nden gelir bilgisi örneği:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -106,16 +106,16 @@ Vergi Dairesi'nden gelir bilgisi örneği:
 <span style="font-size: 16px; color: rgb(5, 146, 245);">8. Konut (kira sözleşmesi, aylık maliyet detayları). <!--  --> 
 
 Aile üyelerinizle bir `inneboende` sözleşmesi oluşturmanızı öneririm. Bunun nedeni, uzun süreli ikamet için kişi başına gereken miktarın masrafların bölünüp bölünmediğine bağlı olmasıdır. Kişi başına düşen maliyetler daha düşükse, başvurunuzun kabul edilme şansını artırabilir. Her kişinin başvurusu bireysel olarak incelendiğinden, sözleşmenin aslında tüm aile üyelerine uzun süreli ikamet izni alma konusunda yardımcı olabileceği düşünülmektedir. İşte oluşturduğum <a href="https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link" target="_blank">inneboende sözleşmesi</a>  için bir bağlantı.
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="85%"></iframe>
 
 İşte kira sözleşmesi örneği:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="85%"></iframe></center>
 </div>
 
 İşte en son fatura örneği:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -126,7 +126,7 @@ Bu bölüm gerekli olmasa da, kendinizi ve ailenizi İsveç hükümetine yük ol
 
 Bu belgeye banka hesabınızdaki para miktarını ve arabanız gibi diğer şeylerin değerini yazabilirsiniz:
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="85%"></iframe></center>
 </div>
 
 Eğer bir aile olarak başvuruyorsanız, her aile üyesi için iş sözleşmesi, maaş detayları ve banka hesap dökümünü herkesin bel
@@ -185,4 +185,4 @@ Box 3100
 
 <!-- <iframe src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="100%" height="500px"></iframe> -->
 
-<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="640"></iframe> -->
+<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="85%"></iframe> -->
