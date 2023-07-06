@@ -1,7 +1,7 @@
 ---
 layout: mypost
-title: How to Fix Wrong Committer
-categories: [Git]
+title: How to Fix Wrong Committer in Git
+categories: [Git,1. English]
 tags: [Git,Gitlab,Github]
 ---
 
