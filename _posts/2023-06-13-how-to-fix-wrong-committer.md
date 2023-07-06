@@ -1,5 +1,5 @@
 ---
-layout: mypost
+layout: post
 title: How to Fix Wrong Committer in Git
 categories: [Git,1. English]
 tags: [Git,Gitlab,Github]
