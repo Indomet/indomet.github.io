@@ -87,7 +87,7 @@ avatar: "/assets/img/pic.jpg"
 toc: true
 
 comments:
-  active: discus #giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: disqus #giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: https-indomet-github-io # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
