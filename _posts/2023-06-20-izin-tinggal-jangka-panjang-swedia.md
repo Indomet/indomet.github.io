@@ -36,14 +36,14 @@ Untuk melengkapi aplikasi Anda, Anda perlu mengumpulkan `dokumen wajib`. Anda ju
 <span style="font-size: 16px; color: rgb(5, 146, 245);">0. Daftar Isi (opsional)<!--  -->
 
 Berikut adalah daftar isi yang dapat Anda sertakan dalam dokumen Anda untuk memudahkan bagi mereka yang bekerja di Migrationsverket:
-<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="85%"></iframe>
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Formulir varaktigt bosatt (138011).<!--  -->
 
 Berikut adalah contoh cara mengisi formulir izin tinggal jangka panjang. Perlu diingat bahwa informasi yang saya berikan dapat bervariasi dari orang ke orang.
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe>
+<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="85%"></iframe>
 
 <br>
 
@@ -53,7 +53,7 @@ Untuk mengajukan aplikasi Anda, Anda perlu membayar biaya aplikasi. Setelah mela
 
 Berikut adalah contoh tanda terima pembayaran:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="85%"></iframe></center>
 </div> 
 
 <br>
@@ -67,7 +67,7 @@ Anda perlu memindai atau mengambil foto paspor Anda, mulai dari halaman pertama 
 
 Berikut adalah contoh kontrak kerja:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="85%"></iframe></center>
 </div> 
 
 <br>
@@ -76,7 +76,7 @@ Berikut adalah contoh kontrak kerja:
 
 Berikut adalah contoh spesifikasi gaji:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="85%"></iframe></center>
 </div> 
 
 
@@ -94,7 +94,7 @@ Anda dapat mengunjungi halaman ini untuk mengakses informasi pendapatan dalam be
 
 Berikut adalah contoh tampilannya:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="85%"></iframe></center>
 </div> 
 
 <br>
@@ -102,17 +102,17 @@ Berikut adalah contoh tampilannya:
 
 Saya sarankan Anda mempertimbangkan untuk membuat kontrak `inneboende` dengan anggota keluarga Anda. Hal ini karena jumlah uang yang dibutuhkan per orang untuk perizinan tinggal jangka panjang tergantung pada apakah Anda membagi biaya atau tidak. Jika biaya per orang lebih rendah, itu dapat meningkatkan peluang Anda untuk mendapatkan izin. Karena setiap aplikasi individu diperiksa secara terpisah, memiliki kontrak mungkin dapat membantu semua anggota keluarga Anda mendapatkan izin tinggal jangka panjang. Berikut adalah tautan ke <a href="https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link" target="_blank">kontrak inneboende</a> yang telah saya buat.
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="85%"></iframe></center>
 </div> 
 
 Berikut adalah contoh perjanjian sewa:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="85%"></iframe></center>
 </div>  
 
 Berikut adalah contoh faktur terbaru:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="85%"></iframe></center>
 </div> 
 
 <br>
@@ -123,7 +123,7 @@ Meskipun bagian ini tidak diperlukan, saya sarankan Anda untuk menyertakannya, k
 
 Anda dapat menuliskan jumlah uang dalam rekening bank Anda dan nilai dari barang lainnya, seperti mobil Anda, dalam dokumen ini:
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="85%"></iframe></center>
 </div> 
 
 
@@ -182,7 +182,7 @@ Box 3100
 
 <!-- <iframe src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="100%" height="500px"></iframe> -->
 
-<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="640"></iframe> -->
+<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="85%"></iframe> -->
 
 <!-- 
 > ⚠️ **This document is still a draft. Please note that there might be mistakes or inaccuracies.**

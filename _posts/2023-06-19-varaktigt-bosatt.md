@@ -36,7 +36,7 @@ För att slutföra din ansökan måste du samla ihop `obligatoriska dokument`. D
 
 Här är en innehållsförteckning som du kan inkludera i dina dokument för att underlätta för dem som arbetar på Migrationsverket:
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -45,7 +45,7 @@ Här är en innehållsförteckning som du kan inkludera i dina dokument för att
 
 Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom ihåg att informationen jag har samlat kan variera från person till person.
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -56,7 +56,7 @@ För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att
 
 Här är ett exempel på en betalningskvitto:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -71,7 +71,7 @@ Du behöver skanna eller ta en bild av ditt pass, börjandes från första sidan
 
 Här är ett exempel på ett anställningsbevis:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -80,7 +80,7 @@ Här är ett exempel på ett anställningsbevis:
 
 Här är ett exempel på en lönespecifikation:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -97,7 +97,7 @@ Du kan besöka den här sidan för att få åtkomst till inkomstuppgifter i PDF-
 
 Här är ett exempel på hur det ser ut:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -106,17 +106,17 @@ Här är ett exempel på hur det ser ut:
 
 Jag rekommenderar att du skapar ett inneboendeavtal med dina familjemedlemmar. Detta beror på att beloppet som krävs per person för varaktigt bosatt beror på om du delar kostnaderna eller inte. Om kostnaderna per person är lägre kan det förbättra dina chanser att få uppehållstillståndet. Eftersom varje persons ansökan granskas individuellt kan ett avtal faktiskt hjälpa alla dina familjemedlemmar att få varaktigt bosatt. Här är en länk till det <a href="https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link" target="_blank">inneboendeavtalet</a> jag har skapat.
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="85%"></iframe></center>
 </div>
 
 Här är ett exempel på hyresavtalet:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="85%"></iframe></center>
 </div> 
 
 Här är ett exempel på den senaste fakturan:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="85%"></iframe></center>
 </div> 
 
 <br>
@@ -126,7 +126,7 @@ Här är ett exempel på den senaste fakturan:
 
 Du kan skriva beloppet pengar på ditt bankkonto och värdet på andra tillgångar, som din bil, i detta dokument:
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="85%"></iframe></center>
 </div> 
 
 
@@ -187,4 +187,4 @@ Box 3100
 
 <!-- <iframe src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="100%" height="500px"></iframe> -->
 
-<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="640"></iframe> -->
+<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="85%"></iframe> -->

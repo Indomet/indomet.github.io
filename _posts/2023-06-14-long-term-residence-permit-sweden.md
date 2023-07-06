@@ -36,7 +36,7 @@ To complete your application, you need to collect the `mandatory documents`. You
 
 Here is a table of contents that you can include in your documents to make things easier for people working on Migrationsverket:
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="85%"></iframe></center>
 </div>
 <br>
 
@@ -44,7 +44,7 @@ Here is a table of contents that you can include in your documents to make thing
 
 Here is an example of how to fill out the long-term residence form. Keep in mind that that the information I provided can vary from person to person.
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -55,7 +55,7 @@ To submit your application, you need to pay an application fee. After making the
 
 Here is an example of a payment receipt:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -70,7 +70,7 @@ You need to scan or take a picture of your passport, starting from the first pag
 
 Here is an example of employement contract
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe> </center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="85%"></iframe> </center>
 </div>
 <br>
 
@@ -78,7 +78,7 @@ Here is an example of employement contract
 
 Here is an example of salary specification:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -96,7 +96,7 @@ You can visit this page to access the income information in PDF form <a href="ht
 
 Here is an example about how it looks:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -106,17 +106,17 @@ Here is an example about how it looks:
 I would recommend that you consider creating an `inneboende` contract with your family members. This is because the amount of money required per person for long-term residence depends on whether you divide the costs or not. If the costs per person are lower, it could improve your chances of getting the permit. Since each person's application is reviewed individually, having a contract may actually help all of your family members to get the long-term residence permit. Here is a link to <a href="https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link" target="_blank">inneboende contract</a> I have created. 
 
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="85%"></iframe></center>
 </div>
 
 Here is an example of the rental agreement:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="85%"></iframe></center>
 </div>
 
 Here is an example of the latest invoice:
 <div>
-<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="85%"></iframe></center>
 </div>
 
 <br>
@@ -127,7 +127,7 @@ Although this part is not needed I would recommend you to include this, since yo
 
 You can write the amount of money in your bank account and the value of other things, such as your car, within this document:
 <div>
-<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe></center>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="85%"></iframe></center>
 </div>
 
 If you are applying as a family, it's a good idea to include employment contract, salary details and bank account statement for each family member in everybody's documents. If any family member already has permanent or long-term residence, it's better to include their salary information and bank account statement since they are part of the family.
@@ -186,6 +186,6 @@ Box 3100
 
 <!-- <iframe src="https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" width="100%" height="500px"></iframe> -->
 
-<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="640"></iframe> -->
+<!-- <iframe allow="autoplay" height="350" src="https://docs.google.com/viewer?url=https://github.com/Indomet/indomet.github.io/raw/main/assets/website-files/Migrationsverket-Eng/test.pdf" type="text/css" width="85%"></iframe> -->
 
 
