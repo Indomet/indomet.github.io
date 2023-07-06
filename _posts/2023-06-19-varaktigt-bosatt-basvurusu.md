@@ -11,9 +11,8 @@ tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Sürel
 Uzun Süreli İkamet, İsveç'te de dahil olmak üzere birçok Avrupa ülkesinde yaşamanıza izin veren bir ikamet iznidir. Bu izni almanın büyük faydaları vardır. Bu izin, Avrupa'daki farklı ülkelerde serbestçe dolaşmanıza ve kalmanıza olanak tanır.
 
 Bu ülkelerin listesini Migrationsverket'in resmi web sitesinde bulabilirsiniz:
-- [Migrationsverket - Varaktigt bosatt (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html)
-- [Migrationsverket - Long-term Residents (Engelska)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)
-
+- <a href="https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html" target="_blank">Migrationsverket - Varaktigt bosatt (Swedish)</a>
+- <a href="https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html" target="_blank">Migrationsverket - Long-term Residents (English)</a>
 
 Başka bir avantaj ise uzun süreli ikamet iznine sahip olduğunuzda, otomatik olarak İsveç'te kalıcı (permanent) ikamet izni almanızdır.  Vatandaşlık başvurusu yapabilmek için gerçekten çok güzel bir fırsat tanır.
 
@@ -24,7 +23,8 @@ Uzun süreli ikamet statüsüne kabul edilmek için şunlara sahip olmanız gere
 - Önceki beş yıl boyunca İsveç'te ikamet izni veya diğer nedenlerle yasal ikamet sahibi olmuş olmak
 - Kendinizi ve ailenizi geçindirebilecek durumda olmak
 
-[Övrigt skyddsbehövande](https://www.migrationsverket.se/Privatpersoner/Skydd-och-asyl-i-Sverige/Efter-beslut/Om-du-far-stanna/Uppehallstillstand-som-alternativt-skyddsbehovande.html) statüsünde olan bir kişi olarak İsveç'te ikamet izni almanız durumunda, varaktigt bosatt (uzun süreli ikamet) statüsüne kabul edilemezsiniz.
+<a href="https://www.migrationsverket.se/Privatpersoner/Skydd-och-asyl-i-Sverige/Efter-beslut/Om-du-far-stanna/Uppehallstillstand-som-alternativt-skyddsbehovande.html" target="_blank">Övrigt skyddsbehövande</a> statüsünde olan bir kişi olarak İsveç'te ikamet izni almanız durumunda, varaktigt bosatt (uzun süreli ikamet) statüsüne kabul edilemezsiniz.
+
 
 ## Nasıl Başvurulur?
 
@@ -36,14 +36,18 @@ Başvurunuzu tamamlamak için `zorunlu belgeleri` toplamanız gerekmektedir. İs
 <span style="font-size: 16px; color: rgb(5, 146, 245);">0. İçindekiler Tablosu (isteğe bağlı)<!--  -->
 
 Migrationsverket'te çalışan kişiler için işleri kolaylaştırmak amacıyla belgelerinize ekleyebileceğiniz bir içindekiler tablosu aşağıdadır.
-<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1JQmUbaSpR1jkv__1jfNvod76YbxbyixpIxiFYfAOXyI/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Varaktigt bosatt formu (138011).<!--  -->
 
 Varaktigt bosatt formunu nasıl dolduracağınızla ilgili bir örnek aşağıdadır. Unutmayın, sunduğum bilgiler kişiden kişiye değişkenlik gösterebilir.
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
@@ -52,7 +56,9 @@ Varaktigt bosatt formunu nasıl dolduracağınızla ilgili bir örnek aşağıda
 Başvurunuzu göndermek için bir başvuru ücreti ödemeniz gerekmektedir. Ödemeyi yaptıktan sonra, kanıt olarak bir ödeme makbuzunu ekleyebilirsiniz. Ödeme nasıl yapılacağını [buradan](https://indomet.github.io/posts/varaktigt-bosatt-basvurusu/#odeme-nasil-yapilir) bulabilirsiniz.
 
 Ödeme makbuzu örneği:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
@@ -65,14 +71,18 @@ Pasaportunuzun ilk sayfasından başlayarak, son kullanılan sayfaya kadar taray
 <span style="font-size: 16px; color: rgb(5, 146, 245);">4. İş sözleşmesi <!--  -->
 
 İş sözleşmesi örneği:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">5. Maaş bordrosu. (Mümkünse son üç bordroyu ekleyin) <!--  -->
 
 Maaş bordrosu örneği:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
@@ -84,23 +94,29 @@ Bankanızdan bir banka hesap dökümü talep edebilir veya online bankacılık k
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">7. İsveç Vergi Dairesi'nden gelir bilgileri <!--  -->
 
-[Buradan](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna) PDF formatında gelir bilgilerine erişebilirsiniz. Oradan, son bir veya iki yıl için gelir bilgilerini indirebilirsiniz.
+<a href="https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna" target="_blank">Buradan</a> PDF formatında gelir bilgilerine erişebilirsiniz. Oradan, son bir veya iki yıl için gelir bilgilerini indirebilirsiniz.
 
 Vergi Dairesi'nden gelir bilgisi örneği:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">8. Konut (kira sözleşmesi, aylık maliyet detayları). <!--  --> 
 
-Aile üyelerinizle bir `inneboende` sözleşmesi oluşturmanızı öneririm. Bunun nedeni, uzun süreli ikamet için kişi başına gereken miktarın masrafların bölünüp bölünmediğine bağlı olmasıdır. Kişi başına düşen maliyetler daha düşükse, başvurunuzun kabul edilme şansını artırabilir. Her kişinin başvurusu bireysel olarak incelendiğinden, sözleşmenin aslında tüm aile üyelerine uzun süreli ikamet izni alma konusunda yardımcı olabileceği düşünülmektedir. İşte oluşturduğum [inneboende sözleşmesi](https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link) için bir bağlantı.
+Aile üyelerinizle bir `inneboende` sözleşmesi oluşturmanızı öneririm. Bunun nedeni, uzun süreli ikamet için kişi başına gereken miktarın masrafların bölünüp bölünmediğine bağlı olmasıdır. Kişi başına düşen maliyetler daha düşükse, başvurunuzun kabul edilme şansını artırabilir. Her kişinin başvurusu bireysel olarak incelendiğinden, sözleşmenin aslında tüm aile üyelerine uzun süreli ikamet izni alma konusunda yardımcı olabileceği düşünülmektedir. İşte oluşturduğum <a href="https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link" target="_blank">inneboende sözleşmesi</a>  için bir bağlantı.
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe>
 
 İşte kira sözleşmesi örneği:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe> 
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe></center>
+</div>
 
 İşte en son fatura örneği:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe></center>
+</div>
 
 <br>
 
@@ -109,7 +125,9 @@ Aile üyelerinizle bir `inneboende` sözleşmesi oluşturmanızı öneririm. Bun
 Bu bölüm gerekli olmasa da, kendinizi ve ailenizi İsveç hükümetine yük olmadan destekleyebileceğinizi kanıtlamaya çalıştığınız için bunu eklemenizi öneririm.
 
 Bu belgeye banka hesabınızdaki para miktarını ve arabanız gibi diğer şeylerin değerini yazabilirsiniz:
-<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe></center>
+</div>
 
 Eğer bir aile olarak başvuruyorsanız, her aile üyesi için iş sözleşmesi, maaş detayları ve banka hesap dökümünü herkesin bel
 
@@ -144,8 +162,9 @@ Aşağıdaki kişilerin hiçbir ücret ödemesine gerek yoktur:
 - Japonya vatandaşları.
 
 Daha fazla bilgi için aşağıdaki linkleri ziyaret edebilirsiniz:
-- [Migrationsverket - Avgifter för varaktigt bosatta (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html)
-- [Migrationsverket - Fees for Long-term Residents (Engelska)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html)
+- <a href="https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html" target="_blank">Migrationsverket - Avgifter för varaktigt bosatta (Swedish)</a>
+- <a href="https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html" target="_blank">Migrationsverket - Fees for Long-term Residents (English)</a>
+
 
 
 
@@ -158,8 +177,8 @@ Migrationsverket
 Box 3100
 903 03 Umeå
 ```
-- [Migrationsverket - Adresser för post och fax (Svenska)](https://www.migrationsverket.se/Kontakta-oss/Post--och-faxadresser.html)
-- [Migrationsverket - Postal addresses and fax numbers (Engelska)](https://www.migrationsverket.se/English/Contact-us/Postal-addresses-and-fax-numbers.html)
+- <a href="https://www.migrationsverket.se/Kontakta-oss/Post--och-faxadresser.html" target="_blank">Migrationsverket - Post and Fax Addresses (Swedish)</a>
+- <a href="https://www.migrationsverket.se/English/Contact-us/Postal-addresses-and-fax-numbers.html" target="_blank">Migrationsverket - Post and Fax Addresses (English)</a>
 
 
 <!-- <embed src="https://docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" type="application/pdf" width="100%" height="600px">    -->

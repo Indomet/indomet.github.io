@@ -10,8 +10,8 @@ tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Sürel
 Izin Tinggal Jangka Panjang, juga dikenal sebagai "Varaktigt bosatt" dalam bahasa Swedia, adalah izin tinggal yang memungkinkan Anda tinggal di banyak negara di Eropa, termasuk Swedia. Mendapatkan izin ini memiliki banyak manfaat. Ini berarti Anda dapat dengan bebas berpindah dan tinggal di berbagai negara di Eropa tanpa ada batasan.
 
 Anda dapat menemukan daftar negara-negara tersebut di situs web resmi Migrationsverket:
-- [Migrationsverket - Varaktigt bosatt (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html)
-- [Migrationsverket - Long-term Residents (Engelska)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)
+- <a href="https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html" target="_blank">Migrationsverket - Varaktigt bosatt (Swedish)</a>
+- <a href="https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html" target="_blank">Migrationsverket - Long-term Residents (English)</a>
 
 
 Keuntungan lainnya adalah setelah Anda memiliki izin tinggal jangka panjang, Anda secara otomatis mendapatkan izin tinggal tetap di Swedia. Ini sangat menguntungkan karena memberi Anda kesempatan untuk mengajukan kewarganegaraan di kemudian hari jika Anda menginginkannya.
@@ -23,7 +23,7 @@ Untuk diberikan status penduduk jangka panjang, Anda harus:
 - telah memiliki izin tinggal atau tinggal secara legal di Swedia dengan alasan lain selama lima tahun sebelumnya.
 - dapat menjamin kehidupan Anda sendiri dan keluarga Anda.
 
-Jika Anda telah diberikan izin tinggal di Swedia sebagai [Övrigt skyddsbehövande](https://www.migrationsverket.se/English/Private-individuals/Protection-and-asylum-in-Sweden/When-you-have-received-a-decision-on-your-asylum-application/If-you-are-allowed-to-stay/Residence-permits-for-those-granted-subsidiary-protection-status-.html), Anda tidak dapat diberikan status penduduk jangka panjang.
+Jika Anda telah diberikan izin tinggal di Swedia sebagai <a href="https://www.migrationsverket.se/Privatpersoner/Skydd-och-asyl-i-Sverige/Efter-beslut/Om-du-far-stanna/Uppehallstillstand-som-alternativt-skyddsbehovande.html" target="_blank">Övrigt skyddsbehövande</a>, Anda tidak dapat diberikan status penduduk jangka panjang.
 
 ## Bagaimana cara mengajukan?
 
@@ -52,7 +52,9 @@ Berikut adalah contoh cara mengisi formulir izin tinggal jangka panjang. Perlu d
 Untuk mengajukan aplikasi Anda, Anda perlu membayar biaya aplikasi. Setelah melakukan pembayaran, Anda dapat menyertakan rekaman bank sebagai bukti. Anda dapat menemukan cara melakukan pembayaran [di sini](https://indomet.github.io/posts/long-term-residence-permit-sweden/#cara-pembayaran).
 
 Berikut adalah contoh tanda terima pembayaran:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1v4b7OCEVuk4Dlu26oA7QqkH0R8MoOVTk/preview" width="640"></iframe></center>
+</div> 
 
 <br>
 
@@ -64,14 +66,19 @@ Anda perlu memindai atau mengambil foto paspor Anda, mulai dari halaman pertama 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">4. Kontrak kerja. <!--  -->
 
 Berikut adalah contoh kontrak kerja:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe> 
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1FYv9ljtfEjy7O2jZw95zOYLqMd0EIhnh/preview" width="640"></iframe></center>
+</div> 
 
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">5. Spesifikasi gaji terbaru. (Sebaiknya sertakan yang terbaru dalam tiga bulan terakhir) <!--  -->
 
 Berikut adalah contoh spesifikasi gaji:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1Vwo7NrLyqAf-C1LykwaYsY8CwqyE1rdA/preview" width="640"></iframe></center>
+</div> 
+
 
 <br>
 
@@ -83,22 +90,30 @@ Anda dapat meminta rekening koran bank dari bank Anda, atau jika Anda menggunaka
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">7. Informasi pendapatan dari Skatteverket (Otoritas Pajak Swedia). <!--  -->
 
-Anda dapat mengunjungi halaman ini untuk mengakses informasi pendapatan dalam bentuk PDF [di sini](https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna). Dari sana, Anda dapat masuk untuk mengunduh informasi pendapatan untuk satu atau dua tahun.
+Anda dapat mengunjungi halaman ini untuk mengakses informasi pendapatan dalam bentuk PDF <a href="https://www.skatteverket.se/privat/skatter/arbeteochinkomst/seaktuellauppgifteromdininkomst.4.35c34f651660af3747c4df0.html#:~:text=Logga%20in%20f%C3%B6r%20att%20se,eller%20spara%20de%20sammanst%C3%A4llda%20uppgifterna" target="_blank">di sini</a>. Dari sana, Anda dapat masuk untuk mengunduh informasi pendapatan untuk satu atau dua tahun.
 
 Berikut adalah contoh tampilannya:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/14XunV_8mIqB_2eS_1crsvA_8Eo7BAnqT/preview" width="640"></iframe></center>
+</div> 
 
 <br>
 <span style="font-size: 16px; color: rgb(5, 146, 245);">8. Perumahan (perjanjian sewa, rincian biaya bulanan). <!--  --> 
 
-Saya sarankan Anda mempertimbangkan untuk membuat kontrak `inneboende` dengan anggota keluarga Anda. Hal ini karena jumlah uang yang dibutuhkan per orang untuk perizinan tinggal jangka panjang tergantung pada apakah Anda membagi biaya atau tidak. Jika biaya per orang lebih rendah, itu dapat meningkatkan peluang Anda untuk mendapatkan izin. Karena setiap aplikasi individu diperiksa secara terpisah, memiliki kontrak mungkin dapat membantu semua anggota keluarga Anda mendapatkan izin tinggal jangka panjang. Berikut adalah tautan ke [kontrak inneboende](https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link) yang telah saya buat.
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe>
+Saya sarankan Anda mempertimbangkan untuk membuat kontrak `inneboende` dengan anggota keluarga Anda. Hal ini karena jumlah uang yang dibutuhkan per orang untuk perizinan tinggal jangka panjang tergantung pada apakah Anda membagi biaya atau tidak. Jika biaya per orang lebih rendah, itu dapat meningkatkan peluang Anda untuk mendapatkan izin. Karena setiap aplikasi individu diperiksa secara terpisah, memiliki kontrak mungkin dapat membantu semua anggota keluarga Anda mendapatkan izin tinggal jangka panjang. Berikut adalah tautan ke <a href="https://docs.google.com/document/d/1cK1ONuINS7RjeqoT4jxXeY-VMZ_kZ9vhKjPkjbMC9bw/edit?usp=drive_link" target="_blank">kontrak inneboende</a> yang telah saya buat.
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/15Foa0avJvEI9HswXvW2CwWsQSxqw46-n/preview" width="640"></iframe></center>
+</div> 
 
 Berikut adalah contoh perjanjian sewa:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe> 
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1ebp6yJCl-ZuLDhEpMGUUUYpfWX2dof4X/preview" width="640"></iframe></center>
+</div>  
 
 Berikut adalah contoh faktur terbaru:
-<iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1NyGyUG4V0-cjVujKzbi2Jn5-O7AttPYO/preview" width="640"></iframe></center>
+</div> 
 
 <br>
 
@@ -107,7 +122,10 @@ Berikut adalah contoh faktur terbaru:
 Meskipun bagian ini tidak diperlukan, saya sarankan Anda untuk menyertakannya, karena Anda mencoba membuktikan bahwa Anda mampu menyokong diri sendiri dan keluarga tanpa menjadi beban bagi pemerintah Swedia.
 
 Anda dapat menuliskan jumlah uang dalam rekening bank Anda dan nilai dari barang lainnya, seperti mobil Anda, dalam dokumen ini:
-<iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe>
+<div>
+<center><iframe allow="autoplay" height="350" src="//docs.google.com/document/d/1Bn1NQgADnIwM9dPie2o95stzyZlSfMLpTgpeCfrm36I/preview" width="640"></iframe></center>
+</div> 
+
 
 
 Jika Anda mengajukan sebagai keluarga, adalah ide yang baik untuk menyertakan kontrak kerja, rincian gaji, dan rekening koran untuk setiap anggota keluarga dalam dokumen masing-masing. Jika ada anggota keluarga yang sudah memiliki izin tinggal tetap atau jangka panjang, lebih baik menyertakan informasi gaji dan rekening koran mereka karena mereka adalah bagian dari keluarga.
@@ -140,8 +158,8 @@ Individu-individu berikut tidak perlu membayar biaya apa pun:
 - Warga negara Jepang.
 
 Untuk informasi lebih lanjut, Anda dapat mengunjungi tautan-tautan berikut:
-- [Migrationsverket - Avgifter för varaktigt bosatta (Svenska)](https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html)
-- [Migrationsverket - Fees for Long-term Residents (Engelska)](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html)
+- <a href="https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt/Avgifter.html" target="_blank">Migrationsverket - Avgifter för varaktigt bosatta (Swedish)</a>
+- <a href="https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents/Fees.html" target="_blank">Migrationsverket - Fees for Long-term Residents (English)</a>
 
 ## Kemana harus mengirim?
 Untuk mengajukan permohonan tinggal jangka panjang, Anda perlu mengirimkan aplikasi Anda ke alamat berikut. Namun, sayangnya tidak ada opsi pengajuan secara online untuk jenis izin tinggal ini.
@@ -154,8 +172,8 @@ Box 3100
 903 03 Umeå
 ```
 
-- [Migrationsverket - Adresser för post och fax (Svenska)](https://www.migrationsverket.se/Kontakta-oss/Post--och-faxadresser.html)
-- [Migrationsverket - Postal addresses and fax numbers (Engelska)](https://www.migrationsverket.se/English/Contact-us/Postal-addresses-and-fax-numbers.html)
+- <a href="https://www.migrationsverket.se/Kontakta-oss/Post--och-faxadresser.html" target="_blank">Migrationsverket - Post and Fax Addresses (Swedish)</a>
+- <a href="https://www.migrationsverket.se/English/Contact-us/Postal-addresses-and-fax-numbers.html" target="_blank">Migrationsverket - Post and Fax Addresses (English)</a>
 
 
 
