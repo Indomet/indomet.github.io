@@ -52,7 +52,7 @@ Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom 
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">2. Kvitto på betalning. (valfritt)<!--  -->
 
-För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](https://indomet.github.io/posts/varaktigt-bosatt/#hur-betalar-man).
+För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](/posts/varaktigt-bosatt/#hur-betalar-man).
 
 Här är ett exempel på en betalningskvitto:
 <div>
