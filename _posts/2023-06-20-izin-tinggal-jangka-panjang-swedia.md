@@ -49,7 +49,7 @@ Berikut adalah contoh cara mengisi formulir izin tinggal jangka panjang. Perlu d
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">2. Tanda Terima Pembayaran (opsional)<!--  -->
 
-Untuk mengajukan aplikasi Anda, Anda perlu membayar biaya aplikasi. Setelah melakukan pembayaran, Anda dapat menyertakan rekaman bank sebagai bukti. Anda dapat menemukan cara melakukan pembayaran [di sini](/posts/long-term-residence-permit-sweden/#cara-pembayaran).
+Untuk mengajukan aplikasi Anda, Anda perlu membayar biaya aplikasi. Setelah melakukan pembayaran, Anda dapat menyertakan rekaman bank sebagai bukti. Anda dapat menemukan cara melakukan pembayaran [di sini](/posts/izin-tinggal-jangka-panjang-swedia/#cara-pembayaran).
 
 Berikut adalah contoh tanda terima pembayaran:
 <div>
