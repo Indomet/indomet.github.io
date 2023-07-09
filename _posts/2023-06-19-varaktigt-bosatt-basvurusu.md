@@ -53,7 +53,7 @@ Varaktigt bosatt formunu nasıl dolduracağınızla ilgili bir örnek aşağıda
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">2. Ödeme makbuzu (isteğe bağlı)<!--  -->
 
-Başvurunuzu göndermek için bir başvuru ücreti ödemeniz gerekmektedir. Ödemeyi yaptıktan sonra, kanıt olarak bir ödeme makbuzunu ekleyebilirsiniz. Ödeme nasıl yapılacağını [buradan](/posts/varaktigt-bosatt-basvurusu/) bulabilirsiniz.
+Başvurunuzu göndermek için bir başvuru ücreti ödemeniz gerekmektedir. Ödemeyi yaptıktan sonra, kanıt olarak bir ödeme makbuzunu ekleyebilirsiniz. Ödeme nasıl yapılacağını [buradan](/posts/varaktigt-bosatt-basvurusu/#ödeme-nasıl-yapılır) bulabilirsiniz.
 
 Ödeme makbuzu örneği:
 <div>
