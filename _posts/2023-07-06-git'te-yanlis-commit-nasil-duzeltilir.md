@@ -39,9 +39,9 @@ fi
 ' --tag-name-filter cat -- --branches --tags
 ```
 
-2. Komutu çalıştırdıktan sonra, güncellenmiş commit'leri ve etiketleri uzak depoya zorla itmek için aşağıdaki komutu çalıştırın:
+2. Komutu çalıştırdıktan sonra, güncellenmiş commit'leri ve etiketleri cloud'a zorla push yapmak için aşağıdaki komutu çalıştırın:
 ```bash
 git push --force --tags origin 'refs/heads/*'
 ```
 
-Bu adımları takip ederek, Git deposundaki yanlış commit bilgilerini düzeltebilirsiniz. `<hatalı_email>`, `<doğru_isim>` ve `<doğru_eposta>` değerlerini kendi durumunuza uygun şekilde değiştirin.
+Bu adımları takip ederek, Git deposundaki yanlış commit bilgilerini düzeltebilirsiniz. `<hatalı_email>`, `<doğru_isim>` ve `<doğru_eposta>` değerlerini kendi durumunuza uygun şekilde değiştirmeyi unutmayın.

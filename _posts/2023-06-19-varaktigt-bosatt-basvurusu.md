@@ -8,7 +8,7 @@ tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Sürel
 
 <!-- ## Uzun Süreli İkamet (Varaktigt bosatt) Nedir ve Neden Başvurmalısınız? -->
 
-Uzun Süreli İkamet, İsveç'te de dahil olmak üzere birçok Avrupa ülkesinde yaşamanıza izin veren bir ikamet iznidir. Bu izni almanın büyük faydaları vardır. Bu izin, Avrupa'daki farklı ülkelerde serbestçe dolaşmanıza ve kalmanıza olanak tanır.
+Uzun Süreli İkamet, <a href="https://limevision.se/product-category/doftgranar/" target="_blank">İsveç</a>'te de dahil olmak üzere birçok Avrupa ülkesinde yaşamanıza izin veren bir ikamet iznidir. Bu izni almanın büyük faydaları vardır. Bu izin, Avrupa'daki farklı ülkelerde serbestçe dolaşmanıza ve kalmanıza olanak tanır.
 
 Bu ülkelerin listesini Migrationsverket'in resmi web sitesinde bulabilirsiniz:
 - <a href="https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html" target="_blank">Migrationsverket - Varaktigt bosatt (Swedish)</a>
