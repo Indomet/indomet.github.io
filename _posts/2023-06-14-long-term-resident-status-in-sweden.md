@@ -51,7 +51,7 @@ Here is an example of how to fill out the long-term residence form. Keep in mind
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">2. Receipt of payment. (optional)<!--  -->
 
-To submit your application, you need to pay an application fee. After making the payment, you can include a bank statement as proof.  You can find how to make a payment [here](/posts/long-term-residence-permit-sweden/#how-to-make-a-payment).
+To submit your application, you need to pay an application fee. After making the payment, you can include a bank statement as proof.  You can find how to make a payment [here](/posts/long-term-resident-status-in-sweden/#how-to-make-a-payment).
 
 Here is an example of a payment receipt:
 <div>
