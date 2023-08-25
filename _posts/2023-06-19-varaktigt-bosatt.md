@@ -2,7 +2,7 @@
 layout: post
 title: Varaktigt Bosatt
 categories: [Migrationsverket,1. Svenska]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Ställning som varaktigt bosatt, Ansöka varaktigt bosatt, Ansöka ställning som varaktigt bosatt ]
 pin: true
 ---
 

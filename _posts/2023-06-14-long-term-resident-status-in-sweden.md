@@ -2,7 +2,7 @@
 layout: post
 title: Long-term resi­dent status in Sweden
 categories: [Migrationsverket,2. English]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Ställning som varaktigt bosatt, Ansöka varaktigt bosatt, Ansöka ställning som varaktigt bosatt ]
 ---
 
 <!-- ## What is Long-Term Residence (Varaktigt bosatt) and Why Should You Apply for It? -->
@@ -13,7 +13,7 @@ You can find a list of these countries on the official website of Migrationsverk
 - <a href="https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html" target="_blank">Migrationsverket - Long-term Residents (English)</a>
 - <a href="https://www.migrationsverket.se/Privatpersoner/EU-EES-medborgare-och-varaktigt-bosatta/Varaktigt-bosatt.html" target="_blank">Migrationsverket - Varaktigt bosatt (Swedish)</a>
 
-Another advantage is that once you have a long-term residence permit, you automatically get a permanent residence permit in Sweden. This is really good because it gives you the opportunity to apply for citizenship later on if you wish. 
+Another advantage is that once you have a long-term residence permit, you  automatically get a permanent residence permit in Sweden. This is really good because it gives you the opportunity to apply for citizenship later on if you wish. 
 
 ## Who can apply?
 To be granted long-term resident status, you must:

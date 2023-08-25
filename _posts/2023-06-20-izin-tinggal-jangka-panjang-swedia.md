@@ -2,7 +2,7 @@
 layout: post
 title: Izin tinggal jangka panjang Swedia
 categories: [Migrationsverket,4. Bahasa Indonesia]
-tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang]
+tags: [Migrationsverket,Varaktigt bosatt,Long-term residence,Ansöka,Uzun Süreli İkamet,Izin tinggal jangka panjang, Ställning som varaktigt bosatt, Ansöka varaktigt bosatt, Ansöka ställning som varaktigt bosatt ]
 ---
 
 <!-- ## Apa itu Izin Tinggal Jangka Panjang (Varaktigt bosatt) dan Mengapa Anda Harus Mengajukannya? -->
