@@ -12,7 +12,7 @@ tags: [PostNord, Frimärke]
 ## Kan man använda gamla frimärken?
 Ja, du kan använda gamla frimärken, om de är hela och oanvända.
 
-Ett valörlöst frimärkemotsvarar portot för inrikes brev upp till 50 gram. Ett valörlöst frimärke, är ett frimärke där det inte står hur mycket det är värt, det står bara “sverige Brev” på sådant frimärke och det är alltid värda dagens porto (även om du har köprt det för 13,00 kr så är det värt 15kr idag)
+Ett valörlöst frimärkemotsvarar portot för inrikes brev upp till 50 gram. Ett valörlöst frimärke, är ett frimärke där det inte står hur mycket det är värt, det står bara “sverige Brev” på sådant frimärke och det är alltid värda dagens porto (även om du har köpt det för 13,00 kr så är det värt 15kr idag)
 
 Frimärken med tryckt valör är giltiga för den tryckta valören. Både valörlösa frimärken och frimärken med tryckt valör kan kombineras för att nå upp till portot för den tjänst du tänkt använda.
 
