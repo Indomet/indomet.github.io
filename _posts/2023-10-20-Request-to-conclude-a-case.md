@@ -3,10 +3,7 @@ layout: post
 title: Request to conclude a case in Sweden
 categories: [Migrationsverket,2. English]
 tags: [Migrationsverket, Long-term residence, Apply,Varaktigt bosatt,Long-term residence,Ansöka, Appeal request to conclude a case, Request for decision, Request to conclude a case, Överklaga begäran om att avgöra ärende, Begäran om att avgöra ärende]
-
-# image:
-#     path: /assets/images/pappersansokan.jpg
-#     alt: PowerLevel10K Setup 
+ 
 ---
 
 If you have an ongoing case with Migrationsverket (the Swedish Migration Agency) that has been pending for more than six months, you can request that the case be decided within four weeks according to <a href="https://lagen.nu/2017:900#P12S1" target="_blank">the Swedish Administrative Procedure Act, Section 12</a>.
@@ -31,7 +28,7 @@ Migrationsverket has not been able to make a decision on your citizenship case w
 The appeal must be in writing.
 Here are some `examples` that show how to appeal. These examples are for Swedish citizenship, but you can customize them for your own case. I recommend that everyone writes their own appeal.
 
-I also have this part in<a href="/posts/begaran-om-att-avgora-arende/#hur-man-överklagar-på-begäran" target="_blank">swedish</a>.
+I also have this part in<a href="/" target="_blank">swedish</a>.
 You need to include some personal information in the appeal:
 ```
 Name:

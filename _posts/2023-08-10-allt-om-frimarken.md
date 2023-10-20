@@ -20,7 +20,7 @@ Frimärken med tryckt valör är giltiga för den tryckta valören. Både valör
 Ja, så länge det totala värdet av frimärkena motsvarar portot för den tjänst du tänkt använda.
 
 ## Utrikesfrimärket
-Utrikesfrimärket har valör 30,00 kr. Det kan användas både till andra länder och inom <a href="https://limevision.se/product-category/doftgranar/" target="_blank">Sverige</a>.
+Utrikesfrimärket har valör 30,00 kr. Det kan användas både till andra länder och inom Sverige.
 
 ## Går det att använda gamla julfrimärken?
 Ja, både valörlösa frimärken och frimärken med tryckt valör kan användas under hela året, men de måste i så fall tilläggsfrankeras upp med extra porto för att täcka aktuell avgift för den valda tjänsten. Det är värt 1 kr mindre än inrikesporto. Ska du använda julfrimärket utanför julperioden till vanliga brev så behöver du sätta på ett 1-kr frimärke för att komma upp till rätt porto.
