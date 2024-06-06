@@ -49,8 +49,7 @@ tags: [Git,Gitlab,Github]
     - On Windows :
 
         ```sh
-        type %USERPROFILE%\.ssh\Indomet.pub | clip
-
+        type %USERPROFILE%\.ssh\id_rsa.pub | clip
         ```
 
     - On Windows (Only Git Bash not cmd):
