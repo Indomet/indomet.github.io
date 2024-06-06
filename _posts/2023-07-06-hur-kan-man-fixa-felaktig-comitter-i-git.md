@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hur kan man fixa felaktig comitter i git
-categories: [Git,2. Svenska]
+categories: [Git]
 tags: [Git, Gitlab, Github, Commit]
 ---
 

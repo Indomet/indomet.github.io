@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git'te Yanlış Commit Nasıl Düzeltilir?
-categories: [Git,3. Türkçe]
+categories: [Git]
 tags: [Git, Gitlab, Github, Commit]
 ---
 

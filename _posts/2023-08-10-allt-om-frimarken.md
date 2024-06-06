@@ -25,7 +25,7 @@ Utrikesfrimärket har valör 30,00 kr. Det kan användas både till andra lände
 ## Går det att använda gamla julfrimärken?
 Ja, både valörlösa frimärken och frimärken med tryckt valör kan användas under hela året, men de måste i så fall tilläggsfrankeras upp med extra porto för att täcka aktuell avgift för den valda tjänsten. Det är värt 1 kr mindre än inrikesporto. Ska du använda julfrimärket utanför julperioden till vanliga brev så behöver du sätta på ett 1-kr frimärke för att komma upp till rätt porto.
 
-Under julperioden ( som är från mitten november till sista december) räcker det att du sätter på ett frimärke per julhälsning. Valörlösa julfrimärken utanför julperioden motsvarar ett inrikes frimärke minus 1 krona. Julfrimärket gäller alltid för rådande julporto även om du köpte det 2022 för 12 kr så är det i dag värt 14,00 kr (dagens porto - 1 krona).
+Under julperioden ( som är från mitten november till sista december) räcker det att du sätter på ett frimärke per julhälsning. Valörlösa julfrimärken utanför julperioden motsvarar ett inrikes frimärke minus 1 krona. Julfrimärket gäller alltid för rådande julporto även om du köpte det 2022 för 12 kr så är det i dag (2024) värt 17,00 kr (dagens porto - 1 krona).
 
 ## Kan jag använda julfrimärken för att skicka brev utomlands?
 Ja, det är möjligt att använda julfrimärken för att skicka brev utomlands men måste då
@@ -40,6 +40,7 @@ Valörlösa Ekonomibrevsfrimärken motsvarar idag ett porto på 6 kr.
 
   | År         | Pris  |
   |------------|-------|
+  | 2024-01-01 | 18    |
   | 2023-01-01 | 15    |
   | 2022-01-01 | 13    |
   | 2021-01-01 | 12    |
