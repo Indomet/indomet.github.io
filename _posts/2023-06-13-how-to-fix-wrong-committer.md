@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Fix Wrong Committer in Git
-categories: [Git]
+categories: [Git, Git script]
 tags: [Git,Gitlab,Github]
 ---
 

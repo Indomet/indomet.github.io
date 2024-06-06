@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Managing Multiple SSH Keys in Git on Windows
-categories: [Git]
+categories: [Git,SSH key]
 tags: [Git,Gitlab,Github,SSH,SSH key]
 ---
 1. Create the first SSH key by running the following command:
