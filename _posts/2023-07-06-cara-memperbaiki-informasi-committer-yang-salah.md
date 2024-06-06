@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cara Memperbaiki Informasi Committer yang Salah dalam Git
-categories: [Git]
+categories: [Git,Git script]
 tags: [Git, Gitlab, Github, Commit]
 ---
 
