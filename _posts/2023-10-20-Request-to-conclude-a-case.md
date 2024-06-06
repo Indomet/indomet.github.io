@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Request to conclude a case in Sweden
-categories: [Migrationsverket,2. English]
+categories: [Migrationsverket,Begäran om att avgöra ärende]
 tags: [Migrationsverket, Long-term residence, Apply,Varaktigt bosatt,Long-term residence,Ansöka, Appeal request to conclude a case, Request for decision, Request to conclude a case, Överklaga begäran om att avgöra ärende, Begäran om att avgöra ärende]
  
 ---
