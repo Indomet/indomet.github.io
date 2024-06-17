@@ -5,4 +5,4 @@ permalink: /robots.txt
 User-agent: *
 Disallow:
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://indomet.github.io/sitemap.xml
