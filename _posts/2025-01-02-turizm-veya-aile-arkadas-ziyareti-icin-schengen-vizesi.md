@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turizm veya aile arkadas ziyareti icin schengen vizesi
+title: Turizm veya aile ve arkadaş ziyareti için İsveç Schengen vizesi
 categories: [Git,SSH key]
 tags: [Git,Gitlab,Github]
 ---
