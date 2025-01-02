@@ -42,6 +42,7 @@ Här är en innehållsförteckning som du kan inkludera i dina dokument för att
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Blankett för varaktigt bosatt (138011).<!--  -->
+Du kan komma åt den aktuella versionen av dokumentet genom att ange dokumentnumret på följande adress: [Migrationsverkets formulärsida](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
 
 Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom ihåg att informationen jag har samlat kan variera från person till person.
 <div>
@@ -50,7 +51,7 @@ Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom 
 
 <br>
 
-<span style="font-size: 16px; color: rgb(5, 146, 245);">2. Kvitto på betalning. (valfritt)<!--  -->
+<span style="font-size: 16px; color: rgb(5, 146, 245);">2. Kvitto på betalning. <!--  -->
 
 För att lämna in din ansökan måste du betala en ansökningsavgift. Efter att ha gjort betalningen kan du inkludera ett kontoutdrag som bevis. Du kan hitta information om hur du gör en betalning [här](/posts/varaktigt-bosatt/#hur-betalar-man).
 

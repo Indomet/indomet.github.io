@@ -31,7 +31,7 @@ Aşağıdaki liste 2024 yılı için geçerlidir. Başvurudan önce mutlaka [VFS
 
 3. **Aile Üyesi Olanlar**  
    - İsveç’te aile üyesine sahip olanlar, ek olarak **241011** numaralı **Migrationsverket(Isvec göcmenlik burosu)** formunu doldurmalıdır.  
-   - Belgenin güncel haline şu adresten ulaşabilirsiniz: [Migrationsverket Form Sayfasi](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
+   - Belgenin güncel haline şu adresten belge numarasini girerek ulaşabilirsiniz: [Migrationsverket Form Sayfasi](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
 
 ---
 
