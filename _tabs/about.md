@@ -11,7 +11,7 @@ My goal is to find opportunities as a developer where I can apply my previous ex
 
 ## Education
 
-Education plays a crucial role in shaping my expertise. Currently, I am pursuing a Bachelor's degree in Software Engineering and Management at the esteemed *University of Gothenburg*. Before that, I completed my high school years at *Västsvenska Gymnasiet Gothenburg* and *SMA Semesta Bilingual Boarding School in Indonesia*. These educational experiences have given me a strong foundation in various disciplines.
+Education plays a crucial role in shaping my expertise. Currently, I am pursuing a Bachelor's degree in Software Engineering and Management at the esteemed *University of Gothenburg*.
 
 ## Professional Experience
 
