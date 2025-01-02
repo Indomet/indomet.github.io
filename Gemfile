@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.0", ">= 6.0.1"
+gem "csv"      # <-- Add this line
+gem "logger"   # <-- And this line
 
 group :test do
   gem "html-proofer", "~> 5.0"
