@@ -1,8 +1,19 @@
+<<<<<<< HEAD
+=======
+---
+>>>>>>> master
 permalink: /robots.txt
 # The robots rules
 ---
 
 User-agent: *
+<<<<<<< HEAD
 Disallow:
 
 Sitemap: https://indomet.github.io/sitemap.xml
+=======
+
+Disallow: /norobots/
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
+>>>>>>> master
