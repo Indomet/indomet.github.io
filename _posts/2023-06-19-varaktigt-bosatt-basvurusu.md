@@ -43,6 +43,7 @@ Migrationsverket'te çalışan kişiler için işleri kolaylaştırmak amacıyla
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Varaktigt bosatt formu (138011).<!--  -->
+
 Belgenin güncel haline, belge numarasını şu adresten girerek ulaşabilirsiniz: [Migrationsverket Form Sayfası](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
 
 Varaktigt bosatt formunu nasıl dolduracağınızla ilgili bir örnek aşağıdadır. Unutmayın, sunduğum bilgiler kişiden kişiye değişkenlik gösterebilir.

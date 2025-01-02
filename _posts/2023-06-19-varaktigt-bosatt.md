@@ -42,6 +42,7 @@ Här är en innehållsförteckning som du kan inkludera i dina dokument för att
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Blankett för varaktigt bosatt (138011).<!--  -->
+
 Du kan komma åt den aktuella versionen av dokumentet genom att ange dokumentnumret på följande adress: [Migrationsverkets formulärsida](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
 
 Här är ett exempel på hur man fyller i blanketten för varaktigt bosatt. Kom ihåg att informationen jag har samlat kan variera från person till person.
