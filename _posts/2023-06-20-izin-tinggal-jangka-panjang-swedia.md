@@ -41,14 +41,14 @@ Berikut adalah daftar isi yang dapat Anda sertakan dalam dokumen Anda untuk memu
 <br>
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Formulir varaktigt bosatt (138011).<!--  -->
+Anda dapat mengakses versi terbaru dokumen dengan memasukkan nomor dokumen di alamat berikut: [Halaman Formulir Migrationsverket](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
 
 Berikut adalah contoh cara mengisi formulir izin tinggal jangka panjang. Perlu diingat bahwa informasi yang saya berikan dapat bervariasi dari orang ke orang.
 <iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="85%"></iframe>
 
 <br>
 
-<span style="font-size: 16px; color: rgb(5, 146, 245);">2. Tanda Terima Pembayaran (opsional)<!--  -->
-
+<span style="font-size: 16px; color: rgb(5, 146, 245);">2. Tanda Terima Pembayaran <!--  -->
 Untuk mengajukan aplikasi Anda, Anda perlu membayar biaya aplikasi. Setelah melakukan pembayaran, Anda dapat menyertakan rekaman bank sebagai bukti. Anda dapat menemukan cara melakukan pembayaran [di sini](/posts/izin-tinggal-jangka-panjang-swedia/#cara-pembayaran).
 
 Berikut adalah contoh tanda terima pembayaran:

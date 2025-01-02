@@ -42,6 +42,8 @@ Here is a table of contents that you can include in your documents to make thing
 
 <span style="font-size: 16px; color: rgb(5, 146, 245);">1. Long-term residence form (138011).<!--  -->
 
+You can access the newest version of the document by entering the document number at the following address: [Migrationsverket Form Page](https://www.migrationsverket.se/English/Contact-us/Order-forms-or-documents/Forms.html)
+
 Here is an example of how to fill out the long-term residence form. Keep in mind that that the information I provided can vary from person to person.
 <div>
 <center><iframe allow="autoplay" height="350" src="//drive.google.com/file/d/1stmplpudkKL1uRdrHX17mylznFrWup7o/preview" width="85%"></iframe></center>
@@ -49,7 +51,7 @@ Here is an example of how to fill out the long-term residence form. Keep in mind
 
 <br>
 
-<span style="font-size: 16px; color: rgb(5, 146, 245);">2. Receipt of payment. (optional)<!--  -->
+<span style="font-size: 16px; color: rgb(5, 146, 245);">2. Receipt of payment. <!--  -->
 
 To submit your application, you need to pay an application fee. After making the payment, you can include a bank statement as proof.  You can find how to make a payment [here](/posts/long-term-resident-status-in-sweden/#how-to-make-a-payment).
 
