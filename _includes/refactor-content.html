@@ -195,7 +195,6 @@
   {% if _img_content %}
     {% assign _content = _img_content %}
   {% endif %}
-
 {% endif %}
 
 <!-- Add header for code snippets -->
@@ -205,7 +204,6 @@
   {% assign _new_content = '' %}
 
   {% for _snippet in _code_spippets %}
-
     {% if forloop.last %}
       {% assign _new_content = _new_content | append: _snippet %}
 
