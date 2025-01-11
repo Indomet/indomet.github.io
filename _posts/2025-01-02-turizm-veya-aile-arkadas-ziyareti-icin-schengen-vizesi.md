@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Turizm veya aile ve arkadaş ziyareti için İsveç Schengen vizesi
-categories: [Git,SSH key]
-tags: [Git,Gitlab,Github]
+categories: [Schengen,İsveç]
+tags: [Vize,İsveç,isvec,Schengen]
 ---
 
 
