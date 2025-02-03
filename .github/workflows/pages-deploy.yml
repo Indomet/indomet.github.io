@@ -1,4 +1,5 @@
 name: "Build and Deploy"
+
 on:
   push:
     branches:
@@ -8,7 +9,6 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-
   workflow_dispatch:
 
 permissions:
@@ -50,10 +50,11 @@ jobs:
         run: |
           bundle exec htmlproofer _site --disable-external --allow_hash_href
 
+      # IMPORTANT: name the artifact "github-pages"
       - name: Upload site artifact
-        uses: actions/upload-artifact@v4  # Updated to v4
+        uses: actions/upload-artifact@v4
         with:
-          name: site-artifact              # Artifact name
+          name: github-pages
           path: "_site${{ steps.pages.outputs.base_path }}"
 
   deploy:
@@ -62,12 +63,15 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+
     steps:
-      - name: Download site artifact      # Add this step to download the artifact
+      # Download the artifact (also named github-pages by default)
+      - name: Download site artifact
         uses: actions/download-artifact@v4
         with:
-          name: site-artifact             # Must match the name used during upload
+          name: github-pages
 
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2     # Update deploy-pages action if needed
+        uses: actions/deploy-pages@v2
