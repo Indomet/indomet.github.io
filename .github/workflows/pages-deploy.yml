@@ -54,7 +54,7 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-artifact@v4
         with:
-          name: github-pages
+          name: site-artifact
           path: "_site${{ steps.pages.outputs.base_path }}"
 
   deploy:
@@ -67,3 +67,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+        with:
+          artifact_name: site-artifact
