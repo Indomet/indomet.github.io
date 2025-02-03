@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: "Build and Deploy"
 on:
   push:
     branches:
@@ -8,6 +8,8 @@ on:
       - .gitignore
       - README.md
       - LICENSE
+
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -15,6 +17,7 @@ permissions:
   pages: write
   id-token: write
 
+# Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -22,12 +25,15 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
           submodules: true
+          # If using the 'assets' git submodule from Chirpy Starter, uncomment above
+          # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
 
       - name: Setup Pages
         id: pages
@@ -36,25 +42,21 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3
+          ruby-version: 3   # reads from a '.ruby-version' or '.tools-version' file if 'ruby-version' is omitted
           bundler-cache: true
-
-      - name: Install dependencies
-        run: bundle install
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
-          JEKYLL_ENV: production
+          JEKYLL_ENV: "production"
 
       - name: Test site
         run: |
           bundle exec htmlproofer _site --disable-external --allow_hash_href
 
       - name: Upload site artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-pages-artifact@v4
         with:
-          name: site-artifact
           path: "_site${{ steps.pages.outputs.base_path }}"
 
   deploy:
@@ -66,6 +68,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
-        with:
-          artifact_name: site-artifact
+        uses: actions/deploy-pages@v4
